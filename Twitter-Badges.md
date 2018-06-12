@@ -8,10 +8,10 @@ This means [CryptoInfluencers](https://cryptoinfluencers.io/) or [EtherScamDB](h
 
 This means the account is an imposter or tweeting in way to scam or phish users of their funds.
 
-[Imgur](https://i.imgur.com/GOOgZdR.png)
+![Imgur](https://i.imgur.com/GOOgZdR.png)
 
 ### Neutral
 
 This means the the Twitter account has not categoried.
 
-[Imgur](https://i.imgur.com/bGNpYk7.png)
+![Imgur](https://i.imgur.com/bGNpYk7.png)
