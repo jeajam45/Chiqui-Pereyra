@@ -4,6 +4,8 @@ There are 3 different types of badges that EtherAddressLookup will inject into t
 
 This means [CryptoInfluencers](https://cryptoinfluencers.io/) or [EtherScamDB](https://etherscamdb.info) have whitelisted your Twitter ID. 
 
+![Imgur](https://i.imgur.com/zWSQQZu.png)
+
 ### Blacklisted
 
 This means the account is an imposter or tweeting in way to scam or phish users of their funds.
