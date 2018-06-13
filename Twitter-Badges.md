@@ -4,7 +4,7 @@ There are 3 different types of badges that EtherAddressLookup will inject into t
   * [Verified/Whitelisted](https://github.com/409H/EtherAddressLookup/wiki/Twitter-Badges#verifiedwhitelisted)
   * [Blacklisted](https://github.com/409H/EtherAddressLookup/wiki/Twitter-Badges#blacklisted)
   * [Neutral](https://github.com/409H/EtherAddressLookup/wiki/Twitter-Badges#neutral)
-* [Make a Report](https://github.com/409H/EtherAddressLookup/wiki/Twitter-Badges#report)
+* [Make a Report/Get Whitelisted](https://github.com/409H/EtherAddressLookup/wiki/Twitter-Badges#report)
 
 ----
 
